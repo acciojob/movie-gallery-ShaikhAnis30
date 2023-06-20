@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.work{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+
+img{
+	max-width:100%; */
+/* 	height:auto;
+}
