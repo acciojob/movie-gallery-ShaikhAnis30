@@ -1,12 +1,2 @@
 
 /* Your CSS Code here. */
-.col-sm-2, .col-sm-12, .col-sm-4, .col-sm-1{
-	display:flex;
-	justify-content:space-between;
-	align-items:center;
-}
-
-img{
-	max-width:100%;
-	height:auto;
-}
